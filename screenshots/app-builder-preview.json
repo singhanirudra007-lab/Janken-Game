@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "JANKEN",
+      "hasCanvas": false,
+      "bodyTextLen": 131,
+      "bodyTextHash": "070e89aaad47c59a7de6a4199dabeb83e1c812d70cc8a9815699127004823898",
+      "bodyTextPrefix": "YOU VS THE HOUSE 0–0 ROCK · PAPER · SCISSORS JANKEN Three throws",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "JANKEN",
+      "hasCanvas": false,
+      "bodyTextLen": 131,
+      "bodyTextHash": "070e89aaad47c59a7de6a4199dabeb83e1c812d70cc8a9815699127004823898",
+      "bodyTextPrefix": "YOU VS THE HOUSE 0–0 ROCK · PAPER · SCISSORS JANKEN Three throws",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
